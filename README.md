@@ -17,12 +17,18 @@ The project demonstrates basic game programming concepts and interaction mechani
 
 ## Download and Open the Unity Project
 
-1. Click **Code → Download ZIP** on this repository.
-2. Extract the ZIP file.
-3. Open **Unity Hub → Add → Add project from disk**.
-4. Select the folder `UnityProject`, which contains `Assets`, `Packages`, and `ProjectSettings`.
-5. Open the project using **Unity 6.3 LTS**.
-6. Open the `Apartment` scene and press Play.
+Option 1 — Download ZIP
+
+Click Code → Download ZIP.
+
+Extract the downloaded file.
+
+Option 2 — Clone the repository
+
+Copy the repository URL:
+https://github.com/avartscourses/PhroggerTemplate.git
+
+Clone it using Git GUI, Git Bash, or GitHub Desktop.
 
 ## Main Features
 
